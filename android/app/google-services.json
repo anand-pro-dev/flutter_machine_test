@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708286977007",
+    "project_id": "mxpertz-df396",
+    "storage_bucket": "mxpertz-df396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708286977007:android:da8b91047459ff5d42dc1a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_mxpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvqCIX92aKRBt1J8y32DU_oV53XhQWiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
