@@ -103,7 +103,7 @@ class _VerifyOtpState extends State<VerifyOtp> {
                     'phone': _phone.text.toString(),
                     'createdAt': Timestamp.now(),
                   });
-
+                Utils().snackBar("login successfully", context);
                   setState(() {
                     loading = false;
                   });
